@@ -9,6 +9,7 @@ function subtract(a, b) {
 function multiply(a, b) {
   return a * b;
 }
+// hfffuhhii
 
 function calculateAndDisplay(fn) {
   const rawA = document.getElementById('a').value;
