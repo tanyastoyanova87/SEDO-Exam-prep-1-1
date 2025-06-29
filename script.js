@@ -9,9 +9,6 @@ function subtract(a, b) {
 function multiply(a, b) {
   return a * b;
 }
-// hfffuhhii
-// uuu
-// hihppopopo
 
 function calculateAndDisplay(fn) {
   const rawA = document.getElementById('a').value;
@@ -35,3 +32,5 @@ document.getElementById('btn-subtract')
 
 document.getElementById('btn-multiply')
   .addEventListener('click', () => calculateAndDisplay(multiply));
+
+//   
